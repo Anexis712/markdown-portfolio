@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* GPUs
+  * RTX 3090
+  * RTX 3080Ti
+  * Radeon 6900XT 
